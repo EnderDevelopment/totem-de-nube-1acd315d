@@ -1,0 +1,9 @@
+name: CloudTotemPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+api-version: "1.21"
+commands:
+  givecloudtotem:
+    description: Give a Cloud Totem to the player.
+    usage: /givecloudtotem
